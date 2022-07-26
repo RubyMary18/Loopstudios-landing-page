@@ -22,7 +22,7 @@ This is a solution to the [Loopstudios landing page challenge on Frontend Mentor
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://github.com/RubyMary18/Loopstudios-landing-page
 - Live Site URL: https://rubymary18.github.io/Loopstudios-landing-page/
 
 ### Built with
